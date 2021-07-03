@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\bin\Release\PeterWindowsApp.exe.config
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\bin\Release\PeterWindowsApp.exe
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\bin\Release\PeterWindowsApp.pdb
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\bin\Release\PeterWindowsApp.xml
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.Form1.resources
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.Form2.resources
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.Form3.resources
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.Form4.resources
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.Form5.resources
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.Resources.resources
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.vbproj.GenerateResource.cache
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.vbproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.exe
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.xml
+C:\Users\David\source\repos\PeterWindowsApp\PeterWindowsApp\obj\Release\PeterWindowsApp.pdb
